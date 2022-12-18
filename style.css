@@ -1,3 +1,6 @@
+*{
+    margin: 0;padding: 0;
+}
 .container-fluid{
     text-align: center;
     padding: 3% 15% 7%;
@@ -41,3 +44,32 @@ h2{
 .logo{
     padding: 1.5%;
 }
+
+
+/* About */
+
+.about-h2 span{
+    padding: 2% 0;
+    text-align: left;
+    display: inline-block;
+    font-family: 'Bungee', cursive;
+    font-size: 4em;
+}
+.about-content{
+  padding: 0 4%;
+}
+.about-content-text-img{
+    justify-content: center;
+  
+}
+.about-content-text-img p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+}
+.about-content-img{
+    width: 25%;
+    border-radius: 100%;
+    border:5px solid #1e1e1e;
+    margin: 2%;
+}
+
