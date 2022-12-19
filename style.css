@@ -36,7 +36,7 @@ h2{
     font-size: 1rem;
 }
 .intro{
-    padding: 10% 8% 8% 8%;
+    padding: 0% 8% 8% 8%;
     text-align: center;
     justify-content: center;
     color: #fff;
@@ -122,3 +122,36 @@ h2{
 .institute-img{
     padding: 2%;
 }
+
+/* Skills */
+#skills-seaction{
+    background-color: #fff;
+    color: #1e1e1e;
+}
+
+.skills-h2{
+    width:1px;
+    word-wrap: break-word;
+    white-space:pre-wrap;
+    padding: 2% 0;
+    text-align: left;
+    font-family: 'Bungee', cursive;
+    font-size: 4em;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); 
+}
+.skills-heading{
+    position: relative;
+}
+.skills-content{
+  padding: 0 4%;
+}
+.skills-content-text-img{
+    justify-content: center;
+}
+.skills-content-text-img p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+}
+
