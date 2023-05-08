@@ -119,7 +119,7 @@ h2{
   padding: 0 4%;
 }
 .about-content-text-img{
-    justify-content: center;
+    /* justify-content: ; */
 }
 .about-content-text-img p{
     font-family: 'Kanit', sans-serif;
@@ -353,6 +353,7 @@ h2{
         font-size: 2.5rem;
     }
     .project-content-text p{
+        justify-content: start;
         font-size: 0.9rem;
     }
 
