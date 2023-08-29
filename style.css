@@ -262,7 +262,7 @@ h2{
 }
 .project-content-img img{
     width: 100%;
-    border-radius: 8%;
+    border-radius: 15px;
     margin: 2% 0;
 }
 .individual-project{
@@ -416,7 +416,7 @@ h2{
     background-color: white;
     border: 4px solid #FF9F55;
     top: 15px;
-    border-radius: 50%;
+    border-radius: 20px;
     z-index: 1;
   }
   
